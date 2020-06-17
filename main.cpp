@@ -240,18 +240,6 @@ int main(){
 						   break;
 					case 1:rout = new MIN(tor);
 						   break;
-					case 2:rout = new WC_SAME2(tor);
-						   break;
-					case 3:rout = new PB1(tor);
-						   break;
-					case 4:rout = new PB(tor);
-						   break;
-					case 5:rout = new MIN(tor);
-						   break;
-					case 6:rout = new SAMEVC(tor);
-						   break;
-					case 7:rout = new PB1(tor);
-						   break;
 				}
 				
 				
